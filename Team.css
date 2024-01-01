@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Container1{
+   padding-top: 100px;
+    
+}
+
+.child1{
+  
+    background-color: yellowgreen;
+    height: 225px;
+    width: 225px;
+   border-radius: 50%;
+  
+ 
+}
+.navbar{
+    z-index: 1000;
+}
+.Container5 i{
+    color: blue;
+    font-size: 25px;
+    margin-left: 15px;
+}

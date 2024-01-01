@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Container1{
+    width: 100%;
+    padding-top: 100px;
+    background-image: url(./dietary-menu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 20% ;
+    
+}
+.child1{
+    color: black;
+    background-color: yellowgreen;
+    height: 225px;
+    width: 225px;
+   border-radius: 50%;
+ 
+}
+
+.Container7{
+    width: 100%;
+    padding-top: 100px;
+    background-image: url(./vegetables-screen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 20% ;
+}
+.Container7 input{
+   
+    height: 45px;
+}
+.navbar{
+    z-index: 1000;
+}

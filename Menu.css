@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Container1{
+    padding-top: 100px;
+    padding-bottom: 40px;
+    background-image: url(./vegetables-screen.jpg);
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    background-position: 20% ;
+    
+}
+
+.child1{
+  
+    background-color: yellowgreen;
+    height: 225px;
+    width: 225px;
+   border-radius: 50%;
+  
+ 
+}
+.navbar{
+    z-index: 1000;
+}
