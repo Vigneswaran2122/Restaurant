@@ -6,13 +6,7 @@
 
 .Container1{
     padding-top: 100px;
-    padding-bottom: 40px;
-    background-image: url(./vegetables-screen.jpg);
-    background-repeat: no-repeat;
-    
-    background-size: cover;
-    background-position: 20% ;
-    
+    padding-bottom: 40px; 
 }
 
 .child1{
@@ -26,4 +20,16 @@
 }
 .navbar{
     z-index: 1000;
+}
+
+.Container7{
+    
+        width: 100%;
+        padding-bottom: 40px; 
+        padding-top: 100px;
+        background-image: url(./vegetables-screen.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 20% ;
+    
 }
